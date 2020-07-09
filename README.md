@@ -1,6 +1,5 @@
 
-  
-  <body bgcolor="#3d3d3d">
-  
-  </body>
-  </html>
+<center>
+  <h1>Welton Rodrigues de Araujo</h1>
+</center>
+<hr>
